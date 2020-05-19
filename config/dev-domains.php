@@ -74,6 +74,7 @@ return [
     'ontwikkeling.site',
     'our-staging-server.net',
     'preview.dev',
+    'preview.hhey.studio',
     'preview-it.com',
     'psclients.net',
     'rantsports.org',
